@@ -1,7 +1,7 @@
-# WeatherWidget
+# 早知天气
 一款天气应用微信小程序
 <p align='center'>
-    <img src='https://raw.githubusercontent.com/zhangliwen1101/Images/master/img/weather.jpg'>
+<!--     <img src='https://raw.githubusercontent.com/zhangliwen1101/Images/master/img/weather.jpg'> -->
 </p>
 
 ## 说明
@@ -15,7 +15,6 @@ II、`d0e51c8` 版本之后为[小程序云开发](https://developers.weixin.qq.
     <img src='https://raw.githubusercontent.com/zhangliwen1101/Images/master/img/weather1.png' style='max-width:100px!important;width:100px!important;'>
     <img src='https://raw.githubusercontent.com/zhangliwen1101/Images/master/img/weather2.png' style='style='max-width:100px!important;width:100px!important;'>
     <img src='https://raw.githubusercontent.com/zhangliwen1101/Images/master/img/weather3.png' style='style='max-width:100px!important;width:100px!important;'>
-    <img src='https://raw.githubusercontent.com/zhangliwen1101/Images/master/img/weather4.png' style='style='max-width:100px!important;width:100px!important;'>
 </div>
 
 ## 数据来源
@@ -26,19 +25,6 @@ II、`d0e51c8` 版本之后为[小程序云开发](https://developers.weixin.qq.
 > * 注册[和风天气](http://www.heweather.com/)账号，获取 'key`；
 > * 在 `app.js` 中替换 `globalData` 中的 `key` 为你的 `key`；
 > * Run and Enjoy!
-
-## 打赏
-码砖不易，如果您需要，随意打赏，从零开始搭建此项目，直到发版 ->后期运营~
-> * QQ: 383755537
-> * WX: bjawenfd
-
-### 支付宝
-
-<img src="https://raw.githubusercontent.com/zhangliwen1101/Images/master/img/zhifubaoshou.png" width="300" /> <img src="https://raw.githubusercontent.com/zhangliwen1101/Images/master/img/zhifubaohong.png" width="300" />
-
-### 微信
-
-<img src="https://raw.githubusercontent.com/zhangliwen1101/Images/master/img/weixinshou.png" width="300" />
 
 ## License
 
